@@ -1,262 +1,35 @@
 {
-   "San Jose": [
-      {
-         "Canton": "San Jose"
-      },
-      {
-         "Canton": "Escazu"
-      },
-      {
-         "Canton": "Desamparados"
-      },
-      {
-         "Canton": "Puriscal"
-      },
-      {
-         "Canton": "Tarrazu"
-      },
-      {
-         "Canton": "Aserri"
-      },
-      {
-         "Canton": "Mora"
-      },
-      {
-         "Canton": "Goicoechea"
-      },
-      {
-         "Canton": "Santa Ana"
-      },
-      {
-         "Canton": "Alajuelita"
-      },
-      {
-         "Canton": "Vazquez de Coronado"
-      },
-      {
-         "Canton": "Acosta"
-      },
-      {
-         "Canton": "Tibas"
-      },
-      {
-         "Canton": "Moravia"
-      },
-      {
-         "Canton": "Montes de Oca"
-      },
-      {
-         "Canton": "Turrubares"
-      },
-      {
-         "Canton": "Dota"
-      },
-      {
-         "Canton": "Curridabat"
-      },
-      {
-         "Canton": "Perez Zeledon"
-      },
-      {
-         "Canton": "Leon Cortes Castro"
+  "Post": {
+    "cover": {
+      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
+    },
+    "title": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
       }
-   ],
-   "Alajuela": [
-      {
-         "Canton": "Alajuela"
-      },
-      {
-         "Canton": "San Ramon"
-      },
-      {
-         "Canton": "Grecia"
-      },
-      {
-         "Canton": "San Mateo"
-      },
-      {
-         "Canton": "Atenas"
-      },
-      {
-         "Canton": "Naranjo"
-      },
-      {
-         "Canton": "Palmares"
-      },
-      {
-         "Canton": "Poas"
-      },
-      {
-         "Canton": "Orotina"
-      },
-      {
-         "Canton": "San Carlos"
-      },
-      {
-         "Canton": "Zarcero"
-      },
-      {
-         "Canton": "Sarchi"
-      },
-      {
-         "Canton": "Upala"
-      },
-      {
-         "Canton": "Los Chiles"
-      },
-      {
-         "Canton": "Guatuso"
-      },
-      {
-         "Canton": "Rio Cuarto"
+    },
+    "body": {
+      "loremParagraphs": {
+        "minLength": 10,
+        "maxLength": 100
       }
-   ],
-   "Cartago": [
-      {
-         "Canton": "Cartago"
-      },
-      {
-         "Canton": "Paraiso"
-      },
-      {
-         "Canton": "La Union"
-      },
-      {
-         "Canton": "Jimenez"
-      },
-      {
-         "Canton": "Turrialba"
-      },
-      {
-         "Canton": "Alvarado"
-      },
-      {
-         "Canton": "Oreamuno"
-      },
-      {
-         "Canton": "El Guarco"
+    },
+    "tag": {
+      "string": [
+        "one",
+        "two",
+        "three"
+      ]
+    },
+    "isDraft": {
+      "boolean": {}
+    },
+    "createdAt": {
+      "dateTime": {
+        "min": "2010-01-01T00:00:00Z",
+        "max": "2020-12-31T23:59:59Z"
       }
-   ],
-   "Heredia": [
-      {
-         "Canton": "Heredia"
-      },
-      {
-         "Canton": "Barva"
-      },
-      {
-         "Canton": "Santo Domingo"
-      },
-      {
-         "Canton": "Santa Barbara"
-      },
-      {
-         "Canton": "San Rafael"
-      },
-      {
-         "Canton": "San Isidro"
-      },
-      {
-         "Canton": "Belen"
-      },
-      {
-         "Canton": "Flores"
-      },
-      {
-         "Canton": "San Pablo"
-      },
-      {
-         "Canton": "Sarapiqui"
-      }
-   ],
-   "Guanacaste": [
-      {
-         "Canton": "Liberia"
-      },
-      {
-         "Canton": "Nicoya"
-      },
-      {
-         "Canton": "Santa Cruz"
-      },
-      {
-         "Canton": "Bagaces"
-      },
-      {
-         "Canton": "Carrillo"
-      },
-      {
-         "Canton": "Ca�as"
-      },
-      {
-         "Canton": "Abangares"
-      },
-      {
-         "Canton": "Tilaran"
-      },
-      {
-         "Canton": "Nandayure"
-      },
-      {
-         "Canton": "La Cruz"
-      },
-      {
-         "Canton": "Hojancha"
-      }
-   ],
-   "Puntarenas": [
-      {
-         "Canton": "Puntarenas"
-      },
-      {
-         "Canton": "Esparza"
-      },
-      {
-         "Canton": "Buenos Aires"
-      },
-      {
-         "Canton": "Montes de Oro"
-      },
-      {
-         "Canton": "Osa"
-      },
-      {
-         "Canton": "Quepos"
-      },
-      {
-         "Canton": "Golfito"
-      },
-      {
-         "Canton": "Coto Brus"
-      },
-      {
-         "Canton": "Parrita"
-      },
-      {
-         "Canton": "Corredores"
-      },
-      {
-         "Canton": "Garabito"
-      }
-   ],
-   "Limon": [
-      {
-         "Canton": "Limon"
-      },
-      {
-         "Canton": "Pococi"
-      },
-      {
-         "Canton": "Siquirres"
-      },
-      {
-         "Canton": "Talamanca"
-      },
-      {
-         "Canton": "Matina"
-      },
-      {
-         "Canton": "Guacimo"
-      }
-   ]
+    }
+  }
 }
