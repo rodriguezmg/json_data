@@ -1,330 +1,262 @@
-[
- {
-   "Province": "San Jose",
-   "Canton": "San Jose"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Escazu"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Desamparados"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Puriscal"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Tarrazu"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Aserri"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Mora"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Goicoechea"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Santa Ana"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Alajuelita"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Vazquez de Coronado"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Acosta"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Tibas"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Moravia"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Montes de Oca"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Turrubares"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Dota"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Curridabat"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Perez Zeledon"
- },
- {
-   "Province": "San Jose",
-   "Canton": "Leon Cortes Castro"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Alajuela"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "San Ramon"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Grecia"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "San Mateo"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Atenas"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Naranjo"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Palmares"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Poas"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Orotina"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "San Carlos"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Zarcero"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Sarchi"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Upala"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Los Chiles"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Guatuso"
- },
- {
-   "Province": "Alajuela",
-   "Canton": "Rio Cuarto"
- },
- {
-   "Province": "Cartago",
-   "Canton": "Cartago"
- },
- {
-   "Province": "Cartago",
-   "Canton": "Paraiso"
- },
- {
-   "Province": "Cartago",
-   "Canton": "La Union"
- },
- {
-   "Province": "Cartago",
-   "Canton": "Jimenez"
- },
- {
-   "Province": "Cartago",
-   "Canton": "Turrialba"
- },
- {
-   "Province": "Cartago",
-   "Canton": "Alvarado"
- },
- {
-   "Province": "Cartago",
-   "Canton": "Oreamuno"
- },
- {
-   "Province": "Cartago",
-   "Canton": "El Guarco"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Heredia"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Barva"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Santo Domingo"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Santa Barbara"
- },
- {
-   "Province": "Heredia",
-   "Canton": "San Rafael"
- },
- {
-   "Province": "Heredia",
-   "Canton": "San Isidro"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Belen"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Flores"
- },
- {
-   "Province": "Heredia",
-   "Canton": "San Pablo"
- },
- {
-   "Province": "Heredia",
-   "Canton": "Sarapiqui"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Liberia"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Nicoya"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Santa Cruz"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Bagaces"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Carrillo"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Ca�as"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Abangares"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Tilaran"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Nandayure"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "La Cruz"
- },
- {
-   "Province": "Guanacaste",
-   "Canton": "Hojancha"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Puntarenas"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Esparza"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Buenos Aires"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Montes de Oro"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Osa"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Quepos"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Golfito"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Coto Brus"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Parrita"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Corredores"
- },
- {
-   "Province": "Puntarenas",
-   "Canton": "Garabito"
- },
- {
-   "Province": "Limon",
-   "Canton": "Limon"
- },
- {
-   "Province": "Limon",
-   "Canton": "Pococi"
- },
- {
-   "Province": "Limon",
-   "Canton": "Siquirres"
- },
- {
-   "Province": "Limon",
-   "Canton": "Talamanca"
- },
- {
-   "Province": "Limon",
-   "Canton": "Matina"
- },
- {
-   "Province": "Limon",
-   "Canton": "Guacimo"
- }
-]
+{
+   "San Jose": [
+      {
+         "Canton": "San Jose"
+      },
+      {
+         "Canton": "Escazu"
+      },
+      {
+         "Canton": "Desamparados"
+      },
+      {
+         "Canton": "Puriscal"
+      },
+      {
+         "Canton": "Tarrazu"
+      },
+      {
+         "Canton": "Aserri"
+      },
+      {
+         "Canton": "Mora"
+      },
+      {
+         "Canton": "Goicoechea"
+      },
+      {
+         "Canton": "Santa Ana"
+      },
+      {
+         "Canton": "Alajuelita"
+      },
+      {
+         "Canton": "Vazquez de Coronado"
+      },
+      {
+         "Canton": "Acosta"
+      },
+      {
+         "Canton": "Tibas"
+      },
+      {
+         "Canton": "Moravia"
+      },
+      {
+         "Canton": "Montes de Oca"
+      },
+      {
+         "Canton": "Turrubares"
+      },
+      {
+         "Canton": "Dota"
+      },
+      {
+         "Canton": "Curridabat"
+      },
+      {
+         "Canton": "Perez Zeledon"
+      },
+      {
+         "Canton": "Leon Cortes Castro"
+      }
+   ],
+   "Alajuela": [
+      {
+         "Canton": "Alajuela"
+      },
+      {
+         "Canton": "San Ramon"
+      },
+      {
+         "Canton": "Grecia"
+      },
+      {
+         "Canton": "San Mateo"
+      },
+      {
+         "Canton": "Atenas"
+      },
+      {
+         "Canton": "Naranjo"
+      },
+      {
+         "Canton": "Palmares"
+      },
+      {
+         "Canton": "Poas"
+      },
+      {
+         "Canton": "Orotina"
+      },
+      {
+         "Canton": "San Carlos"
+      },
+      {
+         "Canton": "Zarcero"
+      },
+      {
+         "Canton": "Sarchi"
+      },
+      {
+         "Canton": "Upala"
+      },
+      {
+         "Canton": "Los Chiles"
+      },
+      {
+         "Canton": "Guatuso"
+      },
+      {
+         "Canton": "Rio Cuarto"
+      }
+   ],
+   "Cartago": [
+      {
+         "Canton": "Cartago"
+      },
+      {
+         "Canton": "Paraiso"
+      },
+      {
+         "Canton": "La Union"
+      },
+      {
+         "Canton": "Jimenez"
+      },
+      {
+         "Canton": "Turrialba"
+      },
+      {
+         "Canton": "Alvarado"
+      },
+      {
+         "Canton": "Oreamuno"
+      },
+      {
+         "Canton": "El Guarco"
+      }
+   ],
+   "Heredia": [
+      {
+         "Canton": "Heredia"
+      },
+      {
+         "Canton": "Barva"
+      },
+      {
+         "Canton": "Santo Domingo"
+      },
+      {
+         "Canton": "Santa Barbara"
+      },
+      {
+         "Canton": "San Rafael"
+      },
+      {
+         "Canton": "San Isidro"
+      },
+      {
+         "Canton": "Belen"
+      },
+      {
+         "Canton": "Flores"
+      },
+      {
+         "Canton": "San Pablo"
+      },
+      {
+         "Canton": "Sarapiqui"
+      }
+   ],
+   "Guanacaste": [
+      {
+         "Canton": "Liberia"
+      },
+      {
+         "Canton": "Nicoya"
+      },
+      {
+         "Canton": "Santa Cruz"
+      },
+      {
+         "Canton": "Bagaces"
+      },
+      {
+         "Canton": "Carrillo"
+      },
+      {
+         "Canton": "Ca�as"
+      },
+      {
+         "Canton": "Abangares"
+      },
+      {
+         "Canton": "Tilaran"
+      },
+      {
+         "Canton": "Nandayure"
+      },
+      {
+         "Canton": "La Cruz"
+      },
+      {
+         "Canton": "Hojancha"
+      }
+   ],
+   "Puntarenas": [
+      {
+         "Canton": "Puntarenas"
+      },
+      {
+         "Canton": "Esparza"
+      },
+      {
+         "Canton": "Buenos Aires"
+      },
+      {
+         "Canton": "Montes de Oro"
+      },
+      {
+         "Canton": "Osa"
+      },
+      {
+         "Canton": "Quepos"
+      },
+      {
+         "Canton": "Golfito"
+      },
+      {
+         "Canton": "Coto Brus"
+      },
+      {
+         "Canton": "Parrita"
+      },
+      {
+         "Canton": "Corredores"
+      },
+      {
+         "Canton": "Garabito"
+      }
+   ],
+   "Limon": [
+      {
+         "Canton": "Limon"
+      },
+      {
+         "Canton": "Pococi"
+      },
+      {
+         "Canton": "Siquirres"
+      },
+      {
+         "Canton": "Talamanca"
+      },
+      {
+         "Canton": "Matina"
+      },
+      {
+         "Canton": "Guacimo"
+      }
+   ]
+}
